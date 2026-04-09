@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MohamedKhalith/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/MohamedKhalith/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0349-intersection-of-two-arrays](https://github.com/MohamedKhalith/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MohamedKhalith/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Trie
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/MohamedKhalith/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/MohamedKhalith/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MohamedKhalith/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -34,12 +36,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/MohamedKhalith/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MohamedKhalith/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/MohamedKhalith/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MohamedKhalith/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/MohamedKhalith/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MohamedKhalith/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
